@@ -1,0 +1,7 @@
+site_name: Creative Development Systems
+docs_dir: docs_src
+site_dir: docs
+theme: readthedocs
+nav:
+  - Home: index.md
+  - About: about.md
