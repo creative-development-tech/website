@@ -1,7 +1,9 @@
-site_name: Creative Development Systems
+site_name: Create Development Systems
 docs_dir: docs_src
 site_dir: docs
-theme: material
+theme:
+  name: material
+  custom_dir: overrides
 nav:
   - Home: index.md
   - About: about.md
